@@ -1,0 +1,10 @@
+x64/
+*.ipch
+*.sdf
+*.opensdf
+*.suo
+*.log
+*.aps
+Debug/
+Release/
+ipch/
