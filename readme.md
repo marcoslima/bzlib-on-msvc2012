@@ -1,7 +1,7 @@
-libbzip2 on MSVC 2012
-======================
+libbzip2 on MSVC 2012/2015
+============================
 
-The only thing new here is the folder msvc2012 with a solution and project files to make a static library, x64, MT, non unicode (MBCS). All the rest is a copy of bzip2's files from their site (version 1.0.6), witch are included here just for my convenience.
+The only thing new here is the folders msvc2012 and msvc2015 with a solution and project files to make a static library, x64, MT, non unicode (MBCS). All the rest is a copy of bzip2's files from their site (version 1.0.6), witch are included here just for my convenience.
 
 Visit their site on [http://www.bzip.org/].
 
